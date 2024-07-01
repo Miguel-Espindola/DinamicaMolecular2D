@@ -2,7 +2,7 @@
 
 ---
 
-![asassa](/home/miguel/Proyectos/ParaBash/final.jpg)
+![asassa](final.jpg)
 
 ---
 
@@ -197,4 +197,4 @@ imtemp = bwarea(imtep);
 restemp(j) = imtemp/area;
 ```
 
-![asas](/home/miguel/Proyectos/ParaBash/final2.jpg)
+![asas](final2.jpg)
